@@ -25,6 +25,8 @@
 - 🌊 I like the beach, the mountains, nature and animals.
 
 Skills
+
+
 Java, JavaScript,JavaSwing Python, Android, XML, JSON.
 Database Management
 Version Control
