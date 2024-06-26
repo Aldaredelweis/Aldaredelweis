@@ -24,11 +24,23 @@
      reading (especially books on history, computer science, science, technology, intrigue...etc) and cinema, especially classic cinema. 
 - 🌊 I like the beach, the mountains, nature and animals.
 
-Skills
 
 
-Java, JavaScript,JavaSwing Python, Android, XML, JSON.
-Database Management
-Version Control
-Web Development
-DevOps
+  -QUE HE APRENDIDO EN ESTE GRADO?
+- Java, JavaScript,JavaSwing, Python, Android, XML, JSON.
+- Database Management
+- Version Control (GITHUB)
+- Web Development
+- DevOps
+
+ -Que IDES HE USADO MÁS?
+  -Eclipse.
+  -Visual Studio Code.
+  -Sublime Text.
+  -Android Studio
+
+ -SISTEMAS UTILIZADOS
+ -WINDOWS Y LINUX
+
+ -MAQUINAS VIRTUALES
+  VMWARE Y VIRTUALBOX
