@@ -23,3 +23,10 @@
 - 😄 I like teaching (I have given private classes in mathematics, physics, chemistry, and English for many years), I like languages ​​(I speak English, Italian, and a little French), I like 
      reading (especially books on history, computer science, science, technology, intrigue...etc) and cinema, especially classic cinema. 
 - 🌊 I like the beach, the mountains, nature and animals.
+
+Skills
+Java, JavaScript,JavaSwing Python, Android, XML, JSON.
+Database Management
+Version Control
+Web Development
+DevOps
